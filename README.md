@@ -1,7 +1,7 @@
 <div align='center'>
   <h1>智能客服系统</h1>
-  <h3>💬 基于 LangGraph 的智能客服解决方案</h3>
-  <p><em>情感分析、意图识别、知识库问答、自动质检，构建专业客服系统</em></p>
+  <h3>基于 LangGraph 的智能客服解决方案</h3>
+  <p><em>集成情感分析、意图识别、知识库问答和自动质检功能</em></p>
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/LangGraph-Agent-4CAF50?style=flat" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/DeepSeek-API-0066FF?style=flat" alt="DeepSeek"/>
